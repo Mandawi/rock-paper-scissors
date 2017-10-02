@@ -1,0 +1,31 @@
+<!doctype html>
+
+<html lang="en">
+
+  <head>
+
+    <title>Storytelling with Interactive Fiction</title>
+
+    <meta name="Osamah Mandawi" content="Mozilla">
+    <meta name="Interactive Depression" content="Storytelling with Interactive Fiction">
+    <meta charset="utf-8">
+
+
+    <script src="script-1.js"></script>
+
+    <!--We're calling in web fonts, as well as our own stylesheet.-->
+
+    <link href="https://fonts.googleapis.com/css?family=Bungee+Inline" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Arvo:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+
+  <body>
+    <button onclick="myFunction()">Wanna play some rock paper scissors?</button>
+
+    <p id="demo"></p>
+
+  </body>
+
+</html>
